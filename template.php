@@ -1,5 +1,5 @@
 <?php
-    $title = "Functions";
+
 
 ?>
 <!DOCTYPE html>
