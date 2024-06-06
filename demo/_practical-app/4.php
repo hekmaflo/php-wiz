@@ -23,6 +23,12 @@
 
  */
 
+ function calculation($a, $b) {
+	$sum = $a + $b;
+	return $sum;
+ }
+
+ calculation(1, 2);
 	
 ?>
 

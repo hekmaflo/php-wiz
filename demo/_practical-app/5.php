@@ -25,6 +25,11 @@
 
  */
 
+ echo rand(1, 3000);
+ echo strtoupper('hello world');
+ $array = [345,456,123,7,8,9,1,3,2];
+ echo sort($array);
+ print_r($array);
 	
 ?>
 
